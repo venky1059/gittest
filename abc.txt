@@ -1,0 +1,14 @@
+git add abc.txt
+git commit  -m "i have added abc.txt"
+
+x
+
+
+
+w
+q
+x!
+exit
+x
+wq!
+cd
